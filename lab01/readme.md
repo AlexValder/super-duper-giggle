@@ -2,6 +2,8 @@
 
 ## Main File Sysmems Used by Windows and Unix
 
+You can find GitHub repo with pictures [here](https://github.com/AlexValder/super-duper-giggle).
+
 ### NTFS (New Technology File System)
 
 NTFS provides a combination of performance, reliability, and compatibility not found in the FAT file system.
