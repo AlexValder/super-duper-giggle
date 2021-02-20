@@ -55,9 +55,14 @@ APFS.
 
 ## Local Disk Analysis Via GParted
 
-[![HDD 2 TiB](01.png)]
+I have an SSD for 256 MiB where Windows and Debian are installed, and an HDD for 2 TiB where I store most of program
+and personal files, so that if I need to reinstall systems, my data isn't fully erased. You can also see that both use
+GPT and not MBR, and following GParted screenshots also show exact model, serial number, path, sector size, cylinders
+etc.
 
-[![SSD 256 MiB](02.png)]
+![HDD 2 TiB](01.png)
+
+![SSD 256 MiB](02.png)
 
 ## Popular Linux Distributions
 
