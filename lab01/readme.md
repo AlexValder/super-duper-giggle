@@ -57,7 +57,7 @@ APFS.
 
 [![HDD 2 TiB](01.png)]
 
-[![SSD 256 MiB(02.png)]
+[![SSD 256 MiB](02.png)]
 
 ## Popular Linux Distributions
 
