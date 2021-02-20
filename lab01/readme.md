@@ -61,7 +61,107 @@ APFS.
 
 ## Popular Linux Distributions
 
-.
+There is a huge number of distributions based on the Linux kernel. The debate continues among the fans of this
+operating system about how to choose a Linux distribution, which version is better, and which Linux distribution to
+install. This section will list the most common Linux distributions at the moment.
+
+### Linux Mint
+
+It is one of the oldest popular Linux distributions. It was created by Frenchman Clement LeFevre in the mid-2000s as
+a version of the popular Ubuntu for dummies. Or rather, for those who are switching from Windows (at that time we were
+talking about Windows XP and Windows Vista).
+
+Linux Mint is based on Ubuntu, but has its own package manager (a system for installing and updating applications),
+and also in its interface solutions tends to the traditional look of the old Windows (from which the current Windows
+10 is very far).
+
+This facilitates the perception of the system and reduces the process of getting used to it literally to a few minutes.
+
+Linux Mint does not strive to be the most advanced distribution. Here the opposite is true, the system is geared towards
+stability and predictability. New Linux kernels and app updates arrive with the long delays that Mint developers need to
+thoroughly test.
+
+### Manjaro
+
+This is a relatively young distro that doesn't have as long a history as Mint or Ubuntu. But Manjaro grew into one of the
+most popular distributions in a matter of years. And not without reason.
+
+Manjaro is based on Arch Linux. And this is a distribution with a huge history and a colossal fan base. Many believe that
+Arch embodies the true philosophy of Linux. The system is installed completely manually and requires the maximum level of
+user involvement in all the subtleties and settings. But Arch has no concept of version numbers at all like most Linux
+distributions (or the same Mac OS). The whole system is constantly updated. Therefore, you always have the latest version
+of the kernel and all software.
+
+The secret of Manjaro's popularity is that the creators of the distribution took all the best from Arch and added the ease
+of installation and settings of the system, similar to popular distributions like Ubuntu or Linux Mint.
+
+No special knowledge is required to install Manjaro.undefined Manjaro is just as easy and convenient to use. Any of the
+popular shells (Gnome, KDE, etc.) can be easily used here. In addition to the usual package manager, there is also AUR
+(application packages collected by users). In terms of the wealth of software and the ability to customize the system for
+yourself, Manjaro is just a real treasure for an advanced user.
+
+### Elementary OS
+
+Another relatively young Linux distribution, which quickly gained enormous popularity.
+
+The distribution's name speaks for itself. Everything here is done in a minimalistic style. The focus is on the simplicity
+of the interface, settings and everything in general.
+
+Unlike Linux Mint, which has successfully leveraged the idea of ​​Windows user interface continuity for years, Elementary OS
+developers inherit the Mac OS X user interface. Moving from a Mac to this version of Linux will be perhaps the most painless.
+
+Elementary OS is based on Ubuntu, here you can easily install all the software available for Ubuntu. At the same time, the
+system is initially well optimized for laptops, users note its low power consumption.
+
+### Ubuntu
+
+Once upon a time, Ubuntu actually had no alternative. South African millionaire Mark Shuttleworth founded Canonical and
+began developing a distribution based on Debian (one of the basic Linux branches in general). In the mid-2000s, Ubuntu
+became synonymous with Linux for the general public. And it became the basis for many other distributions (for example,
+the aforementioned Linux Mint and Elementary OS).
+
+However, over the years, Ubuntu's popularity began to wane. In the early 2010s, Canonical made several decisions that users
+did not like. For example, ads appeared in Ubuntu, for several years it used its own Unity shell, which did not gain popularity.
+
+Ubuntu remains a very popular server platform today, and the de facto standard for Linux application developers. If some
+program from the world of Windows, Mac OS has a version for Linux, then most often it is a version for Ubuntu/Debian.
+
+### MX Linux
+
+MX Linux has shot up to the top spot in popularity among Linux distributions in recent years. This is surprising, because
+it does not differ in the "polish" Mint or the simplicity of Elementary.
+
+Apparently, there are more and more users in the world who are primarily looking for stability in the operating system.
+
+Debian is famous for its "indestructibility", many users do not reboot the system for literally years, let alone a complete
+reinstallation. And MX Linux, which gives the geeky Debian a slightly more human face, is a great choice if you want your
+system to “just work”.
+
+### Arch Linux
+
+When you run this distro for the first time, it only shows you a blank black screen and a blinking cursor on the console.
+You will have to install the graphical shell, browser, other applications and system tools manually by typing the necessary
+commands.
+
+Essentially, Arch is a constructor that an experienced user can build anything from. If you want to understand how Linux
+works or experiment, you should definitely try Arch. If the console causes fear, then the distribution will be too complicated
+for you.
+
+### openSUSE
+
+This system is supported by the German company Novell. The distribution is simple enough for beginners. And, since
+openSUSE uses the KDE graphical environment, it is perfect as a basic desktop system.
+
+The philosophy of most Linux distributions is that one tool should only do one specific task. As a result, beginners
+often do not understand what and in what program needs to be done to make the system work as it should. openSUSE has
+abandoned this principle for the sake of simplicity and convenience. Its signature feature is an application called
+YaST, which allows you to fully customize your system in one window.
+
+In YaST, you can add repositories, manage disk partitions, customize the appearance of the distribution, install new
+programs and packages, and so on. The program is logical, you will never lose the desired menu item.
+
+The distribution has two update modes: Leap (stable, like in Ubuntu) and Tumbleweed (rolling release with the most
+interesting news, like Arch). So you can choose between system stability and new features.
 
 ## Where *nix System Are Used And How
 
